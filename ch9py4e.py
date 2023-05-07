@@ -1,3 +1,4 @@
+# sourcery skip: assign-if-exp
 import string 
 import operator
 
